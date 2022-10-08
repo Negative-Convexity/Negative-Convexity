@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Negative-Convexity
-- 👀 I’m interested in: the system that is our global capital markets, particularly, fixed income securities markets. Computer science / statistics-econometrics / mathematics are the tools. Financial economics is the theory. Convertible bonds and monetary theory occupy the apex of my knowledge tree.
+- 👀 I’m interested in: the systems that are our global capital markets, particularly, the fixed income securities markets. Computer science / statistics-econometrics / mathematics are the tools. Financial economics is the theory. Convertible bonds and monetary theory occupy the apex of my knowledge tree.
 - 🌱 I’m currently learning: OOP.
 - 💞️ I’m looking to collaborate on: nothing.
 - 📫 How to reach me: message.
